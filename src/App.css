@@ -1,0 +1,23 @@
+:root{
+  --dark-color:#1B0E36;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+  --bs-bg-opacity: 1;
+  /* background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important; */
+  /* background-color: var(--dark-color); */
+  color: #fff;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+ul li {
+  list-style-type: none;
+}

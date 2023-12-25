@@ -1,0 +1,44 @@
+.footer {
+  background-color: #160a2d;
+}
+.footer h2 {
+  color: #753ef0;
+}
+.footer p{
+  font-size: 1rem;
+  color: #938ba3;
+}
+.footer h1 {
+  color: #8b42f0;
+  font-size: 8rem;
+  margin-top:-10px ;
+}
+.footer h4{
+    color:#aca6b8
+}
+.footer .flo{
+  text-align: right;
+}
+.footer hr{
+    color: #fdfcfc;
+    border: 1px solid #fdfcfc;
+}
+/* -------media Quriy ----------- */
+@media (min-width: 0) and (max-width:992px){
+  .footer .flo , .flloo{
+    text-align: center;
+  }
+  .footer h1 {
+    font-size: 5rem;
+  }
+}@media (min-width:0) and (max-width:575px){
+  .footer h2 {
+    font-size: 1.5rem;
+  }
+  .footer h1 {
+    font-size: 6rem;
+  }
+  .footer p{
+    font-size: 0.8rem;
+  }
+}

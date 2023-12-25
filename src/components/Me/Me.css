@@ -1,0 +1,90 @@
+.Me-section {
+  background-color: #190c33;
+  padding: 9rem;
+}
+
+.Me-section .left {
+  color: #854cff;
+}
+
+.Me-section .left p:nth-child(2) {
+  font-size: 3.4rem;
+}
+
+.Me-section .left span {
+  color: #fff;
+}
+
+.Me-section .left .italic {
+  font-style: normal;
+  font-size: 1.1rem;
+}
+
+.Me-section .left button {
+  color: #fff;
+  font-size: 1.1rem;
+  background-color: #743ff0;
+  padding: 0.5rem 3.3rem;
+  border-radius: 10px;
+  border: 1px solid #743ff0;
+  transition: 0.4s ease;
+  display: inline-block;
+}
+
+.Me-section .left button:hover {
+  transform: scale(1.1);
+}
+
+.Me-section img {
+  border: 1px solid #8c43f0;
+  border-radius: 0 50%;
+}
+
+/* ---------media qurey---------- */
+@media (min-width:992px) {
+
+  .Me-section .left h3,
+  p {
+    font-size: 2rem;
+  }
+}
+
+@media (min-width:561px) and (max-width:991px) {
+  .Me-section .left {
+    text-align: center;
+  }
+
+  .Me-section .left p:nth-child(2) {
+    font-size: 2.4rem;
+  }
+
+  .Me-section .left button {
+    padding: 0.5rem 1.3rem;
+  }
+}
+
+@media (max-width:560px) {
+
+  .Me-section {
+    padding: 16px
+  }
+  .Me-section .container .left h3,
+  span {
+
+    font-size: 25px;
+  }
+
+  .Me-section .left p {
+    font-size: 25px
+  }
+
+  .Me-section .left p:nth-child(2) {
+    font-size: 25px;
+  }
+
+  .Me-section .left button {
+    padding: 0.5rem 1.3rem;
+  }
+
+
+}
