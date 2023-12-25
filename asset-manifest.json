@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.226f814b.css",
+    "main.js": "/Portfolio/static/js/main.bd774323.js",
+    "static/media/nubelson-fernandes-gTs2w7bu3Qo-unsplash.jpg": "/Portfolio/static/media/nubelson-fernandes-gTs2w7bu3Qo-unsplash.8b279163f5dab171173f.jpg",
+    "static/media/project3.png": "/Portfolio/static/media/project3.23304c8cef17123f13db.png",
+    "static/media/project2.png": "/Portfolio/static/media/project2.7fbeca037b2bf976ce45.png",
+    "static/media/project1.png": "/Portfolio/static/media/project1.681c77737ba792c0b5e5.png",
+    "static/media/Ecommerce-app-with-React.jpg": "/Portfolio/static/media/Ecommerce-app-with-React.d78e20b05c4e2bc332f4.jpg",
+    "static/media/aloosh.jpg": "/Portfolio/static/media/aloosh.6549403ebf8d307f4403.jpg",
+    "static/media/filter Search.png": "/Portfolio/static/media/filter Search.a863154d766ba3160c48.png",
+    "static/media/webLap.png": "/Portfolio/static/media/webLap.fb0abe56b34e69fd53a7.png",
+    "static/media/todo.png": "/Portfolio/static/media/todo.0ce6b594335c91d08771.png",
+    "index.html": "/Portfolio/index.html",
+    "main.226f814b.css.map": "/Portfolio/static/css/main.226f814b.css.map",
+    "main.bd774323.js.map": "/Portfolio/static/js/main.bd774323.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.226f814b.css",
+    "static/js/main.bd774323.js"
+  ]
+}
