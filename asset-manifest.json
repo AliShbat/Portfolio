@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.226f814b.css",
-    "main.js": "/Portfolio/static/js/main.bd774323.js",
+    "main.css": "/Portfolio/static/css/main.f9881cca.css",
+    "main.js": "/Portfolio/static/js/main.1d2f638b.js",
     "static/media/nubelson-fernandes-gTs2w7bu3Qo-unsplash.jpg": "/Portfolio/static/media/nubelson-fernandes-gTs2w7bu3Qo-unsplash.8b279163f5dab171173f.jpg",
     "static/media/project3.png": "/Portfolio/static/media/project3.23304c8cef17123f13db.png",
     "static/media/project2.png": "/Portfolio/static/media/project2.7fbeca037b2bf976ce45.png",
@@ -12,11 +12,11 @@
     "static/media/webLap.png": "/Portfolio/static/media/webLap.fb0abe56b34e69fd53a7.png",
     "static/media/todo.png": "/Portfolio/static/media/todo.0ce6b594335c91d08771.png",
     "index.html": "/Portfolio/index.html",
-    "main.226f814b.css.map": "/Portfolio/static/css/main.226f814b.css.map",
-    "main.bd774323.js.map": "/Portfolio/static/js/main.bd774323.js.map"
+    "main.f9881cca.css.map": "/Portfolio/static/css/main.f9881cca.css.map",
+    "main.1d2f638b.js.map": "/Portfolio/static/js/main.1d2f638b.js.map"
   },
   "entrypoints": [
-    "static/css/main.226f814b.css",
-    "static/js/main.bd774323.js"
+    "static/css/main.f9881cca.css",
+    "static/js/main.1d2f638b.js"
   ]
 }
